@@ -75,7 +75,7 @@ There are Google and Amazon’s official voice-apps violating their own requirem
 
 Some voice-apps describe data collection in the description but not mentione in privacy policy.
 
-![Incomplete_privacy_policy](https://songer12345/VPAPrivacyPolicyAnalysis/blob/main/image2/incomplete.png)
+![Incomplete_privacy_policy](https://github.com/songer12345/VPAPrivacyPolicyAnalysis/blob/main/image2/incomplete.png)
 
 
 Here are some example skills link:
